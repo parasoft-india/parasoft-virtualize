@@ -1,3 +1,4 @@
 .metadata/
 /repositories/_tmp
 /repositories/journal
+/repositories/mongod.lock
